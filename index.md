@@ -1,3 +1,8 @@
+---
+title: "Plavi Projekt"
+layout: default
+---
+
 #  "Dolphin/marine turtle friendly" ponašanje 
 ---
 

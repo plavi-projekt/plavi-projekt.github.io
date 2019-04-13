@@ -1,3 +1,8 @@
+---
+title: "Our friends"
+layout: default
+---
+
 # Who are our friends ?
 ---
 
