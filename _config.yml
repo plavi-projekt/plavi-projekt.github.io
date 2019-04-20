@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Plavi Projekt"
 description: "Dolphin/marine turtle friendly ponašanje" 
+gems:
+    - jekyll-multiple-lqnguqges-plugin
+languages: ["hr", "en", "fr", "it", "de"]
