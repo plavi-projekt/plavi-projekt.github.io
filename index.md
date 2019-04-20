@@ -8,3 +8,14 @@ layout: default
 
 The ~~porpoise~~ purpose of this website is to help our wonderful marine friends !
 
+~~text~~
+**bold**
+*italics*
+
+## smqller
+### 
+---
+
+ - list
+ - list 2
+[link](https://plavi-projekt.github.io/friends)
