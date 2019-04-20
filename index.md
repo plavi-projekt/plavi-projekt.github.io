@@ -8,14 +8,6 @@ layout: default
 
 The ~~porpoise~~ purpose of this website is to help our wonderful marine friends !
 
-~~text~~
-**bold**
-*italics*
-***both***
-## smqller
-### title
----
+{% include youtubePlayer.html id=MdRLVgRRce8 %}
 
- - list
- - list 2
 [link](https://plavi-projekt.github.io/friends)
