@@ -2,12 +2,9 @@
 title: "Plavi Projekt"
 layout: default
 ---
-
-#  "Dolphin/marine turtle friendly" ponašanje 
----
-
-The ~~porpoise~~ purpose of this website is to help our wonderful marine friends !
-
-{% include youtubePlayer.html id=MdRLVgRRce8 %}
-
+## Dolphins and marine turtles are leaving the Adriatic Sea. <br/> You can help them come back easily!
+### Do you want to know how? Simply watch the video!
+<p align="center">
+{% include youtubePlayer.html %}
+</p>
 [link](https://plavi-projekt.github.io/friends)
