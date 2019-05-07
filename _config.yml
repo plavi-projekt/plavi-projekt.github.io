@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: "Dolphin/marine turtle friendly behaviour"
 description: "Blue Project"
+baseurl: ''
