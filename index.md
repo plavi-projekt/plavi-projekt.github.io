@@ -1,9 +1,11 @@
 ---
-title: "Plavi Projekt"
+title: titles.home 
+description: desc.home
 layout: default
 ---
-## Dolphins and marine turtles are leaving the Adriatic Sea. <br/> You can help them come back easily!
-### Do you want to know how? Simply watch the video!
+## {% t content.home.h1 %} 
+### {% t content.home.h1 %}
+
 <p align="center">
 {% include youtubePlayer.html %}
 </p>
