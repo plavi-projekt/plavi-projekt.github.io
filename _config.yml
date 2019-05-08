@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Dolphin/marine turtle friendly behaviour"
 description: "Blue Project"
+exclude: [ "README.md", "LICENSE", "vendor" ]
 plugins:
   - jekyll-multiple-languages-plugin
 languages: ["en", "fr"]
