@@ -1,0 +1,12 @@
+site:
+  name: Projet Bleu
+  tagline: Voyons ce que c'est
+  description: Comportement \" Dolphin / marine turtle friendly\"
+  keywords: dauphin, marin, mer, animaux
+
+main:
+  welcomeSection:
+    anchor: bienvenue
+    heading: Les dauphins et les tortues de mer quittent la mer Adriatique. </br>Vous pouvez facilement les aider à revenir \! 
+    p1: Voulez-vous savoir comment \? Regardez cette vidéo \!
+

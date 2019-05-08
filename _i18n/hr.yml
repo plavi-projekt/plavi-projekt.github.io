@@ -1,0 +1,12 @@
+site:
+  name: Plavi Projekt
+  tagline: Neznam 
+  description: Dolphin / marine turtle friendly ponašanje
+  keywords: dupin, morska, more, životinje
+
+main:
+  welcomeSection:
+    anchor: dobrodošli
+    heading: Dupin dupin dupin
+    p1: Gledajte video!
+

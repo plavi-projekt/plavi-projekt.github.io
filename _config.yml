@@ -1,41 +1,8 @@
-theme: jekyll-theme-cayman
 baseurl: ''
-title: 
-    en: "Dolphin/marine turtle friendly behaviour"
-    fr: "Comportement \"Dolphin/marine turtle friendly\""
-    hr: "\"Dolphin/marine turtle friendly\" ponašanje"
-description: 
-    en: "Blue Project"
-    fr: "Projet Bleu"
-    hr: "Plavi Projekt"
-t:
-  en:
-    home:
-      name: "Home"
-      url: "/"
-    friends:
-      name: "Our Friends"
-      url: "/friends/"
-  fr:
-    home:
-      name: "Accueil"
-      url: "/accueil/"
-    friends:
-      name: "Nos Amis"
-      url: "/amis/"
-  hr:
-    home:
-      name: "Glavna stranica"
-      url: "/indeks/"
-    friends:
-      name: "Prijatelji"
-      url: "/prijatelji/"
-hello:
-    en:
-    fr: accueil.md
-    hr: indeks.md
-friends:
-    en: friends.md
-    fr: amis.md
-    hr: prijatelji.md
-markdown: kramdown
+languages: ["en", "fr", "hr"]
+exclude_from_localizations: ["assets"]
+defaultLang: en
+languageNames:
+  en: English
+  fr: Français
+  hr: Hrvatski

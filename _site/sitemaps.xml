@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+    
+      <url>
+        <loc>/404.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/amis.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/friends.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/indeks.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/prijatelji.html" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/assets/css/style.css" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/feed.xml" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/accueil.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/indeks.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/amis.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/amis.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/friends.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/prijatelji.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/friends.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/amis.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/friends.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/prijatelji.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/indeks.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/indeks.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/indeks.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/prijatelji.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/amis.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/friends.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/prijatelji.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/sitemaps.xml</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/amis.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/friends.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/indeks.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/prijatelji.html" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/assets/css/style.css" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/feed.xml" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/assets/css/style.css</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/amis.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/friends.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/indeks.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/prijatelji.html" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/assets/css/style.css" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/feed.xml" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/feed.xml</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/amis.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/friends.html" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/indeks.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="hr" href="/prijatelji.html" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/assets/css/style.css" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/feed.xml" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+</urlset>

@@ -1,0 +1,12 @@
+site:
+  name: Blue Project
+  tagline: Let's see what this is
+  description: Dolphin / marine turtle friendly behavior
+  keywords: dolphin, marine, see, animals
+
+main:
+  welcomeSection:
+    anchor: welcome
+    heading: Dolphins and marine turtles are leaving the Adriatic Sea. </br>You can help them come back easily! 
+    p1: Do you want to know how? Simply watch the video!
+
