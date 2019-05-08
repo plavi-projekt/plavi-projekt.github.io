@@ -1,6 +1,0 @@
-theme: jekyll-theme-cayman
-title: "Dolphin/marine turtle friendly behaviour"
-description: "Blue Project"
-plugins:
-  - jekyll-multiple-languages-plugin
-languages: ["en", "fr"]
