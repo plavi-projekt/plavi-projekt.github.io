@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: en
+lang: fr
 ref: friends
 ---
 <ul>
@@ -18,15 +18,14 @@ ref: friends
 </ul>
 
 
-# Who are our friends ?
+# Qui sont nos amis ?
 ---
 
-There are several species you can see at sea! Some of them are here all year, others come only occasionnaly (but we like them just the same!)
+Il y a plusieurs espèces visibles en mer ! Certaines sont présentes toute l'année, d'autres ne viennent qu'occasionnellement (mais on les aime quand même !)
 
-## Permanent residents:
- - Great dolphin *Trusiops truncatus*
-
+## Résidents permanents:
+ - Grand dauphin *Trusiops truncatus*
  - ???
 
-## Honored guests
- - Striped dolphin *Stenella coeruleoalba*
+## Invités d'honneur:
+ - Dauphin bleu et blanc *Stenella coeruleoalba*

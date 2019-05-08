@@ -1,12 +1,24 @@
 ---
-title: "Plavi Projekt"
 layout: default
 lang: en
 ref: hello
 ---
-## Dolphins and marine turtles are leaving the Adriatic Sea. <br/> You can help them come back easily!
-### Do you want to know how? Simply watch the video!
+<ul>
+  {% for menu in site.t[page.lang] %}
+    <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+  {% endfor %}
+</ul>
+
+<ul>
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+</ul>
+
 <p align="center">
 {% include youtubePlayer.html %}
 </p>
-[link](https://plavi-projekt.github.io/friends)
+[Friends](/friends)

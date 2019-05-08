@@ -1,13 +1,14 @@
 ---
 layout: default
-lang: en
-ref: friends
+lang: fr
+ref: hello
 ---
 <ul>
   {% for menu in site.t[page.lang] %}
     <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
   {% endfor %}
 </ul>
+
 <ul>
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
@@ -17,16 +18,8 @@ ref: friends
 {% endfor %}
 </ul>
 
+<p align="center">
+{% include youtubePlayer.html %}
+</p>
 
-# Who are our friends ?
----
-
-There are several species you can see at sea! Some of them are here all year, others come only occasionnaly (but we like them just the same!)
-
-## Permanent residents:
- - Great dolphin *Trusiops truncatus*
-
- - ???
-
-## Honored guests
- - Striped dolphin *Stenella coeruleoalba*
+[Amis](/amis)
