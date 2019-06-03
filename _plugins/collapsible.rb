@@ -1,4 +1,4 @@
-odule Jekyll
+module Jekyll
   module Tags
     class CollapseTag < Liquid::Block
       def initialize(tag_name, block_options, liquid_options)
