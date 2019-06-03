@@ -22,6 +22,21 @@ There are several species you can see at sea! Some of them are here all year, ot
   {% endcollapsible %}
 {% endaccordion %}
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
+
 ## Permanent residents:
  - Great dolphin :dolphin:
  - ???
