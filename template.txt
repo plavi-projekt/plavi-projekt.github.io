@@ -64,7 +64,7 @@ content:
       r8:
         title:
         short:
-        url: https://play.google.com/store/apps/details?id=com.tools.CroDolphin&hl=hr
+        url: https://play.google.com/store/apps/details?id=com.tools.CroDolphin&hl=LANGUAGE
     penal:
       title: 
       desc: 
