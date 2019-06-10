@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 exclude: [ "README.md", "LICENSE", "vendor" ]
 plugins:
   - jekyll-multiple-languages-plugin
-languages: ["en", "fr", "hr"]
+languages: ["en", "fr", "hr", "it"]

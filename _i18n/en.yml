@@ -6,16 +6,15 @@ desc:
   friends: Species you can see
 content:
   home:
-    h1: Dolphins and marine turtles are leaving the Adriatic Sea. You can help them come back easily!
-    h2: Do you want to know how? simply watch the video!
-    p1: There is a fine line between enjoying dolphin watching, with minimal or no impact on their behaviour, and causing severe disturbance while chasing them around. It is all too easy to step over this line if you are not careful and observant. 
-    p2: Like us, dolphins exhibit various natural behaviours throughout the day. They all serve a particular purpose and contribute to the overall health and survival of individuals within a group.
-    h3:  By approaching dolphins in the wild, we are creating a disturbance in their routine. A significant increase in boat traffic in Croatian near-shore waters has taken place. It is known that persistent disturbance may cause long-term negative impacts such as stress related health issues, reduced reproductive success or avoidance of previously very important areas. 
-    h4: What we choose to do when we encounter dolphins is going to make a huge difference to their well-being!
-
+    h1: "Dolphins and marine turtles are leaving the Adriatic Sea. You can help them come back easily!"
+    h2: "Do you want to know how? simply watch the video!"
+    p1: "There is a fine line between enjoying dolphin watching, with minimal or no impact on their behaviour, and causing severe disturbance while chasing them around. It is all too easy to step over this line if you are not careful and observant."
+    p2: "Like us, dolphins exhibit various natural behaviours throughout the day. They all serve a particular purpose and contribute to the overall health and survival of individuals within a group."
+    h3: " By approaching dolphins in the wild, we are creating a disturbance in their routine. A significant increase in boat traffic in Croatian near-shore waters has taken place. It is known that persistent disturbance may cause long-term negative impacts such as stress related health issues, reduced reproductive success or avoidance of previously very important areas. "
+    h4: "What we choose to do when we encounter dolphins is going to make a huge difference to their well-being!"
   rules: 
     head: Rules of behaviour
-    st: It is paramount to be attentive to dolphin behaviour and to follow these simple guidelines:
+    st: "It is paramount to be attentive to dolphin behaviour and to follow these simple guidelines:"
     r1:
       title: INTRODUCE YOURSELF POLITELY
       short: Approach slowly from the side. Avoid sudden changes in speed and direction.
@@ -32,7 +31,7 @@ content:
     r3:
       title: DOLPHINS NEED PRIVACY, JUST LIKE US
       short: They will let you know if you are not welcome. 
-      long1: Even if you are not an expert in bottlenose dolphin behaviour, most of the time you will be able to determine whether your presence is disturbing the animals by making note of the following:
+      long1: "Even if you are not an expert in bottlenose dolphin behaviour, most of the time you will be able to determine whether your presence is disturbing the animals by making note of the following:"
       long2: If you observe mothers with small calves, leave immediately because young animals are particularly vulnerable to stress. Females or the entire group will often try to position themselves between the calf and the boat in an attempt to shield the offspring. This is a definite sign you should move away.
       long3: Leave if you notice the group is repeatedly making abrupt changes in speed or direction, above or below water. 
       long4: Dolphins will undertake prolonged dives in order to “shake you off”, often surfacing far away from the initial position.
@@ -47,7 +46,7 @@ content:
     r5:
       title: DO NOT FEED THE DOLPHINS
       short: It is easy to get carried away while observing these interesting animals. Many people lose track of the fact that dolphins rely on their hunting skills to survive as predators in the wild, and offer them food. 
-      long1: Most believe they are helping “starving” dolphins by providing an easy meal. Some are trying to trick the dolphins into coming closer in hope of prolonging the encounter. While these are probably not the only reasons behind this kind of conduct, the results are always adverse. This is why:
+      long1: "Most believe they are helping “starving” dolphins by providing an easy meal. Some are trying to trick the dolphins into coming closer in hope of prolonging the encounter. While these are probably not the only reasons behind this kind of conduct, the results are always adverse. This is why:"
       long2: Dolphins can get accustomed to receiving food and become increasingly dependent on humans to provide the next meal. Human intervention most often presents a transient, unreliable food source which can suddenly become unavailable at their expense.
       long3: The adopted habit of looking for food near humans can prove to be fatal to offspring that may not learn essential hunting and foraging skills. These individuals become completely dependent on human intervention to survive.
       long4: Ingestion of inappropriate food items such as candy bars, pretzels or even plastic objects that are sometimes offered by people who are unaware or unethical can lead to serious health problems.
@@ -57,7 +56,7 @@ content:
       fin: Feeding dolphins in the wild constitutes harming and harassment!
     r6:
       title: DO NOT SWIM WITH DOLPHINS
-      short: The prevailing public perception of dolphins leads to expectations of friendly interactions with attention-seeking wild animals. Dolphins in captivity might seem to form intimate relations with their trainers while performing fun and exciting stunts. Dolphins are even involved in therapeutic and educational programmes aimed at to helping people overcome their difficulties. Here is why you should not attempt to swim or dive with dolphins:
+      short: "The prevailing public perception of dolphins leads to expectations of friendly interactions with attention-seeking wild animals. Dolphins in captivity might seem to form intimate relations with their trainers while performing fun and exciting stunts. Dolphins are even involved in therapeutic and educational programmes aimed at to helping people overcome their difficulties. Here is why you should not attempt to swim or dive with dolphins:"
       long1: Dolphins can move through water much faster than any swimmer so chasing them around is not going to give you a chance for a closer look. Should you succeed in approaching the animals, bear in mind this situation is not safe for you or the dolphins. These are wild, untrained animals with unpredictable behaviour and should be treated with care and respect. People need medical attention due to bites and body strikes inflicted during such interactions.
       long2: Both humans and dolphins are mammals. Although sea water acts as an effective disinfectant, interaction with wild dolphins may result in disease transfer. These may present serious health threats to dolphins and humans alike.
       fin: Swimming with dolphins represents harassment!
@@ -82,7 +81,7 @@ content:
       desc3: Although there is no current worldwide estimation of their population, based on the aerial surveys we carried out, their number in the Adriatic is estimated at around 10,000 individuals.
     cbw:
       name: Cuviers beaked whale
-      desc1: It is a large-sized odontocete with adults reaching between 5.5 and 7m in length. Of all the beaked whales it has the widest distribution range: global, only absent in polar waters.
+      desc1: "It is a large-sized odontocete with adults reaching between 5.5 and 7m in length. Of all the beaked whales it has the widest distribution range: global, only absent in polar waters."
       desc2: Historic information regarding the distribution and occurrence of this species in the Adriatic Sea is scarce. Based on stranded animals this species was considered occasional/rare. A relatively recent review on the occurrence of the species in the Adriatic suggested that the southern Adriatic Sea could actually be an important habitat for Cuviers beaked whale. Sightings occurred in waters with depths between 700-1200m in the areas of steep bathymetry.
       desc3: It is notable that sightings are grouped along the northern and eastern part of the south Adriatic basin where there is almost a direct drop to the depth of 1000m. Sightings, included females with juvenile animals (suckling animal), indicating the southern Adriatic as important area for this species.
     fw:

@@ -13,8 +13,8 @@ content:
     h3: En approchant les dauphins dans la nature, nous dérangeons leur routine. Le nombre de bateaux naviguant en zone côtière a augmenté de manière significative en Croatie. Il est su qu’une nuisance persistante peut provoquer des effets négatifs à long terme comme des problèmes de santé liés au stress, un succès reproductif réduit, ou l’évitement de zones précédemment très importantes.
     h4: Les actions que nous choississons d’effectuer quand nous rencontrons des dauphins auront une différence énorme sur leur bien-être ! 
   rules: 
-    head: Comportement à adopter: 
-    st: Il est primordial d’être très attentif au comportement du dauphin et de suivre ces instructions simples:  
+    head: "Comportement à adopter:" 
+    st: "Il est primordial d’être très attentif au comportement du dauphin et de suivre ces instructions simples:"
     r1:
       title: PRÉSENTEZ-VOUS POLIMENT
       short: Approchez lentement depuis le côté. Évitez les changements brusques de vitesse ou direction.
@@ -31,7 +31,7 @@ content:
     r3:
       title: LES DAUPHINS ONT BESOIN D'INTIMITÉ AUTANT QUE NOUS
       short: Ils vous feront savoir si vous n'êtes pas les bienvenus.
-      long1: Même sans être un expert en dauphins, vous pourrez la plupart du temps déterminer si votre présence les déranges en faisant attention aux points suivants:
+      long1: "Même sans être un expert en dauphins, vous pourrez la plupart du temps déterminer si votre présence les déranges en faisant attention aux points suivants:"
       long2: Si vous voyez des jeunes en compagnie de leur mère, partez immédiatement car les petits sont tout particulièrement vulnérable au stress. Les femelles de la bande vont sûrement essayer de se positionner entre les bébés et votre bateau pour les protéger. Ceci est un signe certain que vous devez partir. 
       long3: Vous devez également partir si le groupe change souvent et brusquement de direction ou de vitesse, sous l'eau ou en surface. 
       long4: Les dauphins peuvent plonger très logntemps pour vous semer, et refaire surface très loin de leur position initiale. 
@@ -46,7 +46,7 @@ content:
     r5:
       title: NE NOURRISSEZ PAS LES DAUPHINS
       short: Il est facile de se laissez emporter en observant ces animaux passionants. Beaucoup de personnes oublient que les dauphins se reposent sur leurs talents de chasseur pour survivre en tant que prédateurs, et leur offrent de la nourriture.
-      long1: La plupart d'entre eux pensent aider des dauphins “affamés” en leur donnant un repas facile. D'autres essayent de les attirer plus près dans l'espoir de prolonger la rencontre. Même si ce ne sont probablement pas les seuls raisons derrière ce genre de comportements, les résultats sont toujours négatifs. Voila pourquoi: 
+      long1: "La plupart d'entre eux pensent aider des dauphins “affamés” en leur donnant un repas facile. D'autres essayent de les attirer plus près dans l'espoir de prolonger la rencontre. Même si ce ne sont probablement pas les seuls raisons derrière ce genre de comportements, les résultats sont toujours négatifs. Voila pourquoi:"
       long2: Les dauphins peuvent s'accoutumer à recevoir de la nourriture et devenir de plus en plus dépendants aux humains pour leurs prochains repas. L'intervention humaine présente une source de nutrition transitoire et non fiable qui peut disparaître soudainement, au détriment des animaux.
       long3: L'habitude de chercher de la nourriture près des humains peut être fatale aux jeunes dauphins, car ils pourraient manquer des compétences de chasse nécessires à leur survie. Ces individus deviennent complètement dépendant à l'intervention de l'Homme pour se nourrir. 
       long4: L'ingestion de nourriture inappropriée comme des bretzels, des barres chocolatées ou même des objets en plastique qui sont parfois offerts par des gens ignorants ou mal intentionnés peut entraîner des sérieux problèmes de santé.
@@ -56,7 +56,7 @@ content:
       fin: Nourrir les dauphins dans la nature est une nuisance et du harcèlement !
     r6:
       title: NE NAGEZ PAS AVEC LES DAUPHINS
-      short: La perception dominante des dauphins par le public conduit à des attentes d'interactions amicale avec des animaux sauvages en demande d'attention. Les dauphins en captivité peuvent sembler former des liens intimes avec leurs éducateurs en effectuant des cascades impressionantes et divertissante. Les dauphins sont même utilisés dans des programmes thérapeutiques ou éducatifs. Cependant, dans la nature, il ne faut pas plonger ou nager avec eux. Voila pourquoi:
+      short: "La perception dominante des dauphins par le public conduit à des attentes d'interactions amicale avec des animaux sauvages en demande d'attention. Les dauphins en captivité peuvent sembler former des liens intimes avec leurs éducateurs en effectuant des cascades impressionantes et divertissante. Les dauphins sont même utilisés dans des programmes thérapeutiques ou éducatifs. Cependant, dans la nature, il ne faut pas plonger ou nager avec eux. Voila pourquoi:"
       long1: Les dauphins peuvent se mouvoir dans l'eau bien plus rapidement que n'importe quel nageur, donc nager ne vous aidera pas à vous approcher d'eux. Même si vous réussissiez à vous approcher, vous mettriez vous et les dauphins dans une situation dangereuse. Ces animaux sont sauvages et non dressés, avec un comportement imprédictible, et devrez être traités avec respect et attention. Bien souvent après ses rencontres, les blessures infligées par choc ou morsure requièrent des soins médicaux.  
       long2: Les humains comme les dauphins sont des mamiphères. Même si l'eau salée de la mer est un bon désinfectant, les interactions avec des dauphins sauvages peuvent transmettre des maladies. Celles-ci peuvent présenter des menaces sanitaires sérieuses pour les dauphins comme pour les humains.
       fin: Nager avec les dauphins est perçu comme du harcèlement !
@@ -81,7 +81,7 @@ content:
       desc3: Même si il n'y a pas à l'heure actuelle d'estimation de la population mondiale de grand dauphins, en se basant sur nos recensement aériens, nous estimons leur nombre à 10000 individus dans la mer Adriatique. 
     cbw:
       name: Baleine de Cuviers
-      desc1: C'est un cétacé à dents (otodoncète) de grande taille, les adultes pouvant mesurer entre 5,5 et 7m de long pour un poids de 5 à 7 tonnes. C'est la baleine à bec la plus répandue, seulement absente des eaux polaires.
+      desc1: "C'est un cétacé à dents (otodoncète) de grande taille, les adultes pouvant mesurer entre 5,5 et 7m de long pour un poids de 5 à 7 tonnes. C'est la baleine à bec la plus répandue, seulement absente des eaux polaires."
       desc2: Les informations historiques concernement leur répartition et apparitions dans la mer Adriatique sont rares. En se basant sur les animaux échoués, cet espèce y était considérée comme occasionelle ou rare. Une étude récente sur leur occurrence dans la mer Adriatique suggère que la partie sud de cette mer pourrait en fait être un habitat important pour les baleines de Cuviers. Les observations de ces animaux étaient à des profondeurs de 700 à 1200m dans des zones de 
       desc3: Il est notable que ces observations sont concentrées le long des paries Nord et Est du sud du basin Adriatique, là où il y a une chute abrupte de 1000 m de profondeur. Ces observations ont également révélé des femelles allaitantes, indication que le sud de l'Adriatique est bien une zone importante pour cette espèce.
     fw:
@@ -101,4 +101,4 @@ content:
     sd:
       name: Dauphin bleu et blanc
       desc1: Le dauphin bleu et blanc est un petit dauphin pélagique réparti dans les eaux tropicales et tempérées chaudes du globe. C'est l'une des espèces de dauphins les plus nombreuses dans la Méditerranée. Dans l'Adriatique, on estime qu'ils seraient plus de 20000 dans les eaux pélagiques du sud. De temps en temps, ils ont été observés plus au Nord de l'adriatique, notamment autour des îles de Lošinj et Krk. 
-      desc2: Ces dauphins se rassemblent dans des grandes bandes de taille variable: entre 10 à 30 jusqu'à plusieurs centaines d'indivus. L'espérance de vie maximale de ses animaux est estimée à environ 58 ans. Ils se nourrissent principalement de petits poissons de bancs et de calmars pélagiques, avec une préférence marquée pour ces derniers dans la mer Méditerranée. Les dauphins bleus et blancs peuvent plonger jusqu'à 700m pour chasser. Ils nagent très vite, avec une vitesse de croisière estimée à 15km/h dans la Méditerranée. 
+      desc2: "Ces dauphins se rassemblent dans des grandes bandes de taille variable: entre 10 à 30 jusqu'à plusieurs centaines d'indivus. L'espérance de vie maximale de ses animaux est estimée à environ 58 ans. Ils se nourrissent principalement de petits poissons de bancs et de calmars pélagiques, avec une préférence marquée pour ces derniers dans la mer Méditerranée. Les dauphins bleus et blancs peuvent plonger jusqu'à 700m pour chasser. Ils nagent très vite, avec une vitesse de croisière estimée à 15km/h dans la Méditerranée."
