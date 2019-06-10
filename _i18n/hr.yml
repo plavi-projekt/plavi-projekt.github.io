@@ -12,67 +12,67 @@ content:
     p2: Dupini su tijekom dana zaokupljeni raznim aktivnostima koje spadaju u prirodne oblike ponašanja. Svaka aktivnost ima svoju svrhu, pridonosi zdravlju jedinke unutar skupine i osigurava preživljavanje u divljini. 
     h3: Prisutnost ljudi u njihovom prirodnom okruženju može se smatrati uznemiravanjem jer neminovno utječe na njihovo ponašanje. Zabilježeno je značajno povećanje broja plovila u obalnom području Hrvatske, a poznato je da dugotrajno uznemiravanje može izazvati dalekosežne posljedice kao što su zdravstveni problemi uzrokovani stresom, smanjena uspješnost razmnožavanja ili izbjegavanje područja koja su prethodno bila vrlo značajna za preživljavanje.
     h4: Onaj oblik ponašanja i pristup koji odaberemo prilikom interakcije s dupinima će učiniti mnogo i dovesti do ključnih promjena za njihovu dobrobit!
-    rules: 
-      head: Pravila ponašanja
-      st: "Od neprocjenjive je važnosti u svakom trenutku pratiti ponašanje dupina te se držati ovih jednostavnih smjernica:"
-      r1:
-        title: PRISTOJNO SE PREDSTAVITE
-        short: Prilazite skupini polako i postrance. Izbjegavajte nagle promjene brzine i smjera.
-        long1: Prilazite li straga, ostavljate dojam da Vam je cilj proganjati skupinu. Životinje će se pokušati udaljiti ili pobjeći od broda. Prilazite li sprijeda, presijecate smjer kretanja skupine i stvarate zapreku. Ovim postupkom tjerate dupine da se razdvoje, promijene smjer kretanja ili zarone duboko kako bi izbjegli susret sa plovilom.
-        long2: Vaš bi cilj trebao biti da promatrate ove životinje bez umanjivanja njihove sposobnosti za neometano kretanje.
-        long3: Zvukovi se vrlo brzo šire kroz vodu, a moguće ih je detektirati na velikim udaljenostima. Imajte na umu da Vas dupini čuju puno ranije nego što ih Vi možete vidjeti dok se približavate. Stoga, brodski motor možemo doživljavati kao alat za „komunikaciju” sa morskim sisavcima. Nemojte naglo ubrzavati ili usporavati dok ste u njihovoj blizini. Kretanje i zaustavljanje, ali i ostale promjene brzine i/ili smjera upozoravaju dupine da je potrebno iznova procijeniti Vaše namjere.
-        long4: U početku se nemojte pokušavati približiti na manje od 100 m. Smanjujte udaljenost polako, brzinom ne višom od 5 čvorova gotovo neprimjetno i sa vrlo malim kutom prilaska. Na ovaj im način dajete dovoljno vremena da se priviknu na Vašu prisutnost, a istovremeno imate priliku provjeriti jesu li u skupini vrlo male životinje. Ukoliko jesu, najbolje je da napustite područje.
-      r2:
-        title: PLOVITE USPOREDNO SA SKUPINOM
-        short: Izbacite motor iz brzine dok su pod vodom. Nemojte žuriti da ih sustignete kada izrone.
-        long1: Najbolje je održavati plovilo usporedno sa dupinima, sa malim zaostatkom u odnosu na skupinu. Na ovaj način omogućujete životinjama da svojevoljno i bez zapreka promijene smjer kretanja. Pažljivo motrite skupinu kako biste mogli pravodobno reagirati na promjene. Nemojte se postavljati ispred životinja ili presijecati njihov smjer kretanja.
-        long2: Motor možete izbaciti iz brzine dok čekate da izrone ili se možete nastaviti kretati bez izmjena. Nemojte žuriti da ih sustignete kada se ponovno pojave.
-        fin: Približe li se dupini brodu, ne mijenjajte ništa dok se ne udalje.
-      r3:
-        title: I DUPINIMA JE POTREBNA PRIVATNOST
-        short:  Dupini će Vam dati do znanja kada niste dobrodošli!
-        long1: Čak i ako niste stručnjak za ponašanje dobrih dupina, većinom ćete biti u mogućnosti odrediti uznemirava li ih Vaša prisutnost.
-        long2: "Pratite sljedeće oblike ponašanja:"
-        long3: Primijetite li majke sa mladuncima, najbolje je da odmah napustite područje u kojem se nalazite jer su mlade životinje posebno osjetljive na stres. Ženke će se često postaviti između broda i mladunca kako bi ga pokušale zaštititi, a ponekad će to učiniti cijela skupina. Ovo je siguran znak da biste trebali otići.
-        long4: Udaljite se ako primijetite da skupina opetovano i naglo mijenja smjer ili brzinu kretanja neovisno o tome događa li se to dok su životinje na površini ili pod vodom. Otiđite ako se dupini pod vodom zadržavaju jako dugo, a na površini se pojavljuju daleko od mjesta gdje su zaronili. 
-        long5: Udaljite se ako životinje u više navrata plivaju izravno prema Vašem plovilu ili od njega.
-        long6: Postoje i neki vrlo očiti načini iskazivanja nezadovoljstva. Pokušat će Vas uplašiti ili upozoriti da se udaljite glasno izdišući ili opetovano udarajući repom o površinu mora. Osim toga će izvoditi i uzastopne skokove.
-      r4:
-        title: OSTAVITE IM DOVOLJNO PROSTORA
-        short: Ne prilazite bliže od 50 m. Dopustite da sami odluče hoće li se približiti. Povećajte razmak od skupine ako je prisutno više plovila.
-        long1: Dupine je lako uznemiriti ako se previše približite. Ne postoji točno određena granica koju ne biste trebali prijeći. Nemojte se približavati na manje od 50 m osim ako se životinje ne približe svojevoljno.
-        long2: Ukoliko su prisutni drugi promatrači, pričekajte da se udalje prije nego se odlučite približiti. Nije poželjno da u krugu od 200 m oko skupine plovi više od tri brodice.
-        long3: Nemojte okružiti životinje sa više brodova istovremeno te brinite o tome da svojom brodicom pratite skupinu na istoj strani kao i ostali promatrači. Životinje će se osjećati zarobljeno ako ih okružite te će pokušati pobjeći. 
-      r5:
-        title: NE HRANITI DUPINE
-        short: Mnogi ljudi zaboravljaju da su dupini grabežljivci koji se oslanjaju na istančane vještine lova kako bi preživjeli u divljini pa im nude hranu. Većina je uvjerena kako ovim postupkom pomaže „izgladnjelim” životinjama. Neki ih na ovaj način pokušavaju privući u nadi da će se dulje zadržati uz brod Iako ovo vjerojatno nisu jedini razlozi zbog kojih ljudi hrane dupine, posljedice su uvijek negativne.
-        long1: "Evo zašto:"
-        long2: Dupini se mogu priviknuti na dobivanje hrane pa s vremenom postaju sve više ovisni o ljudima kako bi došli do sljedećeg obroka. Upletanje ljudi najčešće je kratkog vijeka i ne predstavlja pouzdan izvor hrane. Ukoliko se naglo prekine s ovakvim postupcima, životinje se mogu naći u nevolji jer će hranu nastaviti tražiti u blizini brodova
-        long3: Mlade jedinke, umjesto vještina prijeko potrebnih za lov, mogu usvojiti naviku potrage za hranom u blizini čovjeka, što ih u konačnici može odvesti u smrt.
-        long4: Ozbiljni zdravstveni problemi mogu se pojaviti nakon što progutaju čokoladice, perece, plastične predmete ili neku drugu neprikladnu hranu koju im nude nesavjesni ljudi.
-        long5: Nemojte smetnuti s uma da štetni mogu biti čak i morski organizmi kao što su ribe ili lignje. ko nisu pravilno uskladištene, mogu sadržavati velike količine bakterija pa predstavljaju izvor infekcije sa mogućim smrtnim ishodom.
-        long7: Dupini koji su dugotrajno u blizini ljudi postepeno gube strah i češće se približavaju brodovima. Budući da su manje oprezni nego li je uobičajeno, veća je vjerojatnost da će nastradati. Mogu progutati ribolovni pribor ili se u njega upetljati, a nalaze se i u većoj opasnosti od sudara sa plovilima i zadobivanja ozljeda prilikom kontakta sa propelerom.
-        long8: Mislite na svoju sigurnost kao i sigurnost onih koji će se u blizini ovih životinja naći u budućnosti! Dupini navikli na primanje hrane mogu postati agresivni ako ne dobiju što žele. Još se više mogu uznemiriti ako ih zadirkujete ili ih pokušavate dotaknuti. Zapamtite, ovo su divlje životinje i njihovo je ponašanje teško predvidjeti.
-        fin: Hranjenje dupina u divljini smatra se uznemiravanjem!
-      r6:
-        title: NE PLIVATI S DUPINIMA
-        short: "Javnost dupine većinom doživljava kao divlje životinje u potrazi za pažnjom i prijateljskom interakcijom. Jedinke u zatočeništvu uspostavljaju naizgled bliske odnose sa svojim trenerima, istovremeno izvodeći kojekakve zabavne i uzbudljive vratolomije. Neki su čak uključeni i u obrazovne odnosno terapeutske programe s ciljem pružanja pomoći bolesnim ljudima. Sve ovo zasigurno znači da bi trebali objeručke prihvatiti priliku da zaplivamo sa ovim veličanstvenim životinjama, zar ne? Pa, ne baš…evo zašto:"
-        long1: Uspijete li se dovoljno približiti, imajte na umu da se nalazite u okolnostima koje su nesigurne kako za Vas tako i za životinje. Dupini su divlje, nepredvidive životinje kojima trebate prilaziti sa poštovanjem. Zabilježeni su slučajevi u kojima su plivači bili prisiljeni potražiti pomoć liječnika zbog udaraca ili ugriza zadobivenih uslijed ovakvih interakcija.
-        long2: Dupini su sisavci, kao i ljudi. Iako morska voda djeluje kao sredstvo za dezinfekciju, prijenos bolesti putem interakcije sa ovim životinjama je moguć. Plivanje sa dupinima može predstavljati ozbiljnu prijetnju zdravlju ljudi, ali i životinja.
-        fin: Plivanje s dupinima predstavlja uznemiravanje!
-      r7:
-        title: NE ZADRŽAVAJTE SE PREDUGO
-        short: Skupinu slijedite najduže 30 minuta. Prilikom odlaska postupno ubrzavajte.
-        long1: Vaša prisutnost sama po sebi predstavlja uznemiravanje, neovisno o načinu ophođenja. Praćenje ovih smjernica umanjuje utjecaj na ponašanje životinja, ali ne znači da se najednom možete smatrati članom skupine. Unatoč tome što za Vas ovo može biti vrlo zadovoljavajuće iskustvo, ne zaboravite da su dupini divlje životinje koje se moraju vratiti svojim redovnim aktivnostima kako bi preživjele. Zabavite se, fotografirajte životinje i podijelite svoje utiske s drugima, ali se nemojte zadržavati dulje od 30 minuta. Pazite da ste dovoljno udaljeni od skupine kada odlučite otići. Ubrzavajte polako, osobito kada niste sigurni gdje se točno nalaze jer su pod vodom!
-      r8:
-        title: ZABILJEŽITE SUSRET
-        short: Ako ugledate dupine, molimo instalirajte “CROdolphin little” aplikaciju na pametni telefon i zabilježite susret.
-        url: https://play.google.com/store/apps/details?id=com.tools.CroDolphin&hl=hr
-    penal:
-      title: U HRVATSKOJ JE ZAKONOM ZABRANJENO HVATANJE, OZLJEĐIVANJE I UZNEMIRAVANJE DUPINA!
-      desc: Kruženje oko skupine, vožnja brodice izravno prema životinjama, pokušaji da ih se dira ili na bilo koji način izaziva smatraju se uznemiravanjem.
-      harass: Prijaviti svako namjerno uznemiravanje dupina pozivom na broj 192.
-      injury: "Prijaviti nalaz ozlijeđene, bolesne ili uginule životinje ne broj 112 ili email: vrste@haop.hr"
+  rules: 
+    head: Pravila ponašanja
+    st: "Od neprocjenjive je važnosti u svakom trenutku pratiti ponašanje dupina te se držati ovih jednostavnih smjernica:"
+    r1:
+      title: PRISTOJNO SE PREDSTAVITE
+      short: Prilazite skupini polako i postrance. Izbjegavajte nagle promjene brzine i smjera.
+      long1: Prilazite li straga, ostavljate dojam da Vam je cilj proganjati skupinu. Životinje će se pokušati udaljiti ili pobjeći od broda. Prilazite li sprijeda, presijecate smjer kretanja skupine i stvarate zapreku. Ovim postupkom tjerate dupine da se razdvoje, promijene smjer kretanja ili zarone duboko kako bi izbjegli susret sa plovilom.
+      long2: Vaš bi cilj trebao biti da promatrate ove životinje bez umanjivanja njihove sposobnosti za neometano kretanje.
+      long3: Zvukovi se vrlo brzo šire kroz vodu, a moguće ih je detektirati na velikim udaljenostima. Imajte na umu da Vas dupini čuju puno ranije nego što ih Vi možete vidjeti dok se približavate. Stoga, brodski motor možemo doživljavati kao alat za „komunikaciju” sa morskim sisavcima. Nemojte naglo ubrzavati ili usporavati dok ste u njihovoj blizini. Kretanje i zaustavljanje, ali i ostale promjene brzine i/ili smjera upozoravaju dupine da je potrebno iznova procijeniti Vaše namjere.
+      long4: U početku se nemojte pokušavati približiti na manje od 100 m. Smanjujte udaljenost polako, brzinom ne višom od 5 čvorova gotovo neprimjetno i sa vrlo malim kutom prilaska. Na ovaj im način dajete dovoljno vremena da se priviknu na Vašu prisutnost, a istovremeno imate priliku provjeriti jesu li u skupini vrlo male životinje. Ukoliko jesu, najbolje je da napustite područje.
+    r2:
+      title: PLOVITE USPOREDNO SA SKUPINOM
+      short: Izbacite motor iz brzine dok su pod vodom. Nemojte žuriti da ih sustignete kada izrone.
+      long1: Najbolje je održavati plovilo usporedno sa dupinima, sa malim zaostatkom u odnosu na skupinu. Na ovaj način omogućujete životinjama da svojevoljno i bez zapreka promijene smjer kretanja. Pažljivo motrite skupinu kako biste mogli pravodobno reagirati na promjene. Nemojte se postavljati ispred životinja ili presijecati njihov smjer kretanja.
+      long2: Motor možete izbaciti iz brzine dok čekate da izrone ili se možete nastaviti kretati bez izmjena. Nemojte žuriti da ih sustignete kada se ponovno pojave.
+      fin: Približe li se dupini brodu, ne mijenjajte ništa dok se ne udalje.
+    r3:
+      title: I DUPINIMA JE POTREBNA PRIVATNOST
+      short:  Dupini će Vam dati do znanja kada niste dobrodošli!
+      long1: Čak i ako niste stručnjak za ponašanje dobrih dupina, većinom ćete biti u mogućnosti odrediti uznemirava li ih Vaša prisutnost.
+      long2: "Pratite sljedeće oblike ponašanja:"
+      long3: Primijetite li majke sa mladuncima, najbolje je da odmah napustite područje u kojem se nalazite jer su mlade životinje posebno osjetljive na stres. Ženke će se često postaviti između broda i mladunca kako bi ga pokušale zaštititi, a ponekad će to učiniti cijela skupina. Ovo je siguran znak da biste trebali otići.
+      long4: Udaljite se ako primijetite da skupina opetovano i naglo mijenja smjer ili brzinu kretanja neovisno o tome događa li se to dok su životinje na površini ili pod vodom. Otiđite ako se dupini pod vodom zadržavaju jako dugo, a na površini se pojavljuju daleko od mjesta gdje su zaronili. 
+      long5: Udaljite se ako životinje u više navrata plivaju izravno prema Vašem plovilu ili od njega.
+      long6: Postoje i neki vrlo očiti načini iskazivanja nezadovoljstva. Pokušat će Vas uplašiti ili upozoriti da se udaljite glasno izdišući ili opetovano udarajući repom o površinu mora. Osim toga će izvoditi i uzastopne skokove.
+    r4:
+      title: OSTAVITE IM DOVOLJNO PROSTORA
+      short: Ne prilazite bliže od 50 m. Dopustite da sami odluče hoće li se približiti. Povećajte razmak od skupine ako je prisutno više plovila.
+      long1: Dupine je lako uznemiriti ako se previše približite. Ne postoji točno određena granica koju ne biste trebali prijeći. Nemojte se približavati na manje od 50 m osim ako se životinje ne približe svojevoljno.
+      long2: Ukoliko su prisutni drugi promatrači, pričekajte da se udalje prije nego se odlučite približiti. Nije poželjno da u krugu od 200 m oko skupine plovi više od tri brodice.
+      long3: Nemojte okružiti životinje sa više brodova istovremeno te brinite o tome da svojom brodicom pratite skupinu na istoj strani kao i ostali promatrači. Životinje će se osjećati zarobljeno ako ih okružite te će pokušati pobjeći. 
+    r5:
+      title: NE HRANITI DUPINE
+      short: Mnogi ljudi zaboravljaju da su dupini grabežljivci koji se oslanjaju na istančane vještine lova kako bi preživjeli u divljini pa im nude hranu. Većina je uvjerena kako ovim postupkom pomaže „izgladnjelim” životinjama. Neki ih na ovaj način pokušavaju privući u nadi da će se dulje zadržati uz brod Iako ovo vjerojatno nisu jedini razlozi zbog kojih ljudi hrane dupine, posljedice su uvijek negativne.
+      long1: "Evo zašto:"
+      long2: Dupini se mogu priviknuti na dobivanje hrane pa s vremenom postaju sve više ovisni o ljudima kako bi došli do sljedećeg obroka. Upletanje ljudi najčešće je kratkog vijeka i ne predstavlja pouzdan izvor hrane. Ukoliko se naglo prekine s ovakvim postupcima, životinje se mogu naći u nevolji jer će hranu nastaviti tražiti u blizini brodova
+      long3: Mlade jedinke, umjesto vještina prijeko potrebnih za lov, mogu usvojiti naviku potrage za hranom u blizini čovjeka, što ih u konačnici može odvesti u smrt.
+      long4: Ozbiljni zdravstveni problemi mogu se pojaviti nakon što progutaju čokoladice, perece, plastične predmete ili neku drugu neprikladnu hranu koju im nude nesavjesni ljudi.
+      long5: Nemojte smetnuti s uma da štetni mogu biti čak i morski organizmi kao što su ribe ili lignje. ko nisu pravilno uskladištene, mogu sadržavati velike količine bakterija pa predstavljaju izvor infekcije sa mogućim smrtnim ishodom.
+      long7: Dupini koji su dugotrajno u blizini ljudi postepeno gube strah i češće se približavaju brodovima. Budući da su manje oprezni nego li je uobičajeno, veća je vjerojatnost da će nastradati. Mogu progutati ribolovni pribor ili se u njega upetljati, a nalaze se i u većoj opasnosti od sudara sa plovilima i zadobivanja ozljeda prilikom kontakta sa propelerom.
+      long8: Mislite na svoju sigurnost kao i sigurnost onih koji će se u blizini ovih životinja naći u budućnosti! Dupini navikli na primanje hrane mogu postati agresivni ako ne dobiju što žele. Još se više mogu uznemiriti ako ih zadirkujete ili ih pokušavate dotaknuti. Zapamtite, ovo su divlje životinje i njihovo je ponašanje teško predvidjeti.
+      fin: Hranjenje dupina u divljini smatra se uznemiravanjem!
+    r6:
+      title: NE PLIVATI S DUPINIMA
+      short: "Javnost dupine većinom doživljava kao divlje životinje u potrazi za pažnjom i prijateljskom interakcijom. Jedinke u zatočeništvu uspostavljaju naizgled bliske odnose sa svojim trenerima, istovremeno izvodeći kojekakve zabavne i uzbudljive vratolomije. Neki su čak uključeni i u obrazovne odnosno terapeutske programe s ciljem pružanja pomoći bolesnim ljudima. Sve ovo zasigurno znači da bi trebali objeručke prihvatiti priliku da zaplivamo sa ovim veličanstvenim životinjama, zar ne? Pa, ne baš…evo zašto:"
+      long1: Uspijete li se dovoljno približiti, imajte na umu da se nalazite u okolnostima koje su nesigurne kako za Vas tako i za životinje. Dupini su divlje, nepredvidive životinje kojima trebate prilaziti sa poštovanjem. Zabilježeni su slučajevi u kojima su plivači bili prisiljeni potražiti pomoć liječnika zbog udaraca ili ugriza zadobivenih uslijed ovakvih interakcija.
+      long2: Dupini su sisavci, kao i ljudi. Iako morska voda djeluje kao sredstvo za dezinfekciju, prijenos bolesti putem interakcije sa ovim životinjama je moguć. Plivanje sa dupinima može predstavljati ozbiljnu prijetnju zdravlju ljudi, ali i životinja.
+      fin: Plivanje s dupinima predstavlja uznemiravanje!
+    r7:
+      title: NE ZADRŽAVAJTE SE PREDUGO
+      short: Skupinu slijedite najduže 30 minuta. Prilikom odlaska postupno ubrzavajte.
+      long1: Vaša prisutnost sama po sebi predstavlja uznemiravanje, neovisno o načinu ophođenja. Praćenje ovih smjernica umanjuje utjecaj na ponašanje životinja, ali ne znači da se najednom možete smatrati članom skupine. Unatoč tome što za Vas ovo može biti vrlo zadovoljavajuće iskustvo, ne zaboravite da su dupini divlje životinje koje se moraju vratiti svojim redovnim aktivnostima kako bi preživjele. Zabavite se, fotografirajte životinje i podijelite svoje utiske s drugima, ali se nemojte zadržavati dulje od 30 minuta. Pazite da ste dovoljno udaljeni od skupine kada odlučite otići. Ubrzavajte polako, osobito kada niste sigurni gdje se točno nalaze jer su pod vodom!
+    r8:
+      title: ZABILJEŽITE SUSRET
+      short: Ako ugledate dupine, molimo instalirajte “CROdolphin little” aplikaciju na pametni telefon i zabilježite susret.
+      url: https://play.google.com/store/apps/details?id=com.tools.CroDolphin&hl=hr
+  penal:
+    title: U HRVATSKOJ JE ZAKONOM ZABRANJENO HVATANJE, OZLJEĐIVANJE I UZNEMIRAVANJE DUPINA!
+    desc: Kruženje oko skupine, vožnja brodice izravno prema životinjama, pokušaji da ih se dira ili na bilo koji način izaziva smatraju se uznemiravanjem.
+    harass: Prijaviti svako namjerno uznemiravanje dupina pozivom na broj 192.
+    injury: "Prijaviti nalaz ozlijeđene, bolesne ili uginule životinje ne broj 112 ili email: vrste@haop.hr"
   species: 
     cbd:
       name: Dobri dupin (Tursiops truncatus)
