@@ -118,4 +118,8 @@ layout: default
   {% t content.rules.r8.url %}  
 </details>
 
+## {% t content.penal.title %}
+### {% t content.penal.desc %}
+<em> {% t content.penal.harass %} </em>
 
+<em> {% t content.penal.injury %} </em>
