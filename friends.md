@@ -11,34 +11,34 @@ layout: default
 </details>
 
 <details>
-  <summary><strong>{% t content.species.cbw.name%}</strong></summary>
+  <summary><strong>{% t content.species.cbw.name%}</strong> - <em>Ziphius cavirostris</em></summary>
   {% t content.species.cbw.desc1 %}
   {% t content.species.cbw.desc2 %}
   {% t content.species.cbw.desc3 %}
 </details>
 
 <details>
-  <summary><strong>{% t content.species.fw.name%}</strong></summary>
+  <summary><strong>{% t content.species.fw.name%}</strong> - <em>Balaenoptera physalus</em></summary>
   {% t content.species.fw.desc1 %}
   {% t content.species.fw.desc2 %}
   {% t content.species.fw.desc3 %}
 </details>
 
 <details>
-  <summary><strong>{% t content.species.rd.name%}</strong></summary>
+  <summary><strong>{% t content.species.rd.name%}</strong> - <em>Grampus griseus</em></summary>
   {% t content.species.rd.desc1 %}
   {% t content.species.rd.desc2 %}
 </details>
 
 <details>
-  <summary><strong>{% t content.species.sbcd.name%}</strong></summary>
+  <summary><strong>{% t content.species.sbcd.name%}</strong> - <em>Delphinus dolphis</em></summary>
   {% t content.species.sbcd.desc1 %}
   {% t content.species.sbcd.desc2 %}
   {% t content.species.sbcd.desc3 %}
 </details>
 
 <details>
-  <summary><strong>{% t content.species.sd.name%}</strong></summary>
+  <summary><strong>{% t content.species.sd.name%}</strong> - <em>Stenella coeruleoalba</em></summary>
   {% t content.species.sd.desc1 %}
   {% t content.species.sd.desc2 %}
 </details>
