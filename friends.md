@@ -4,7 +4,7 @@ layout: default
 ---
 
 <details>
-  <summary><strong>{% t content.species.cbd.name%}</strong></summary>
+  <summary><strong>{% t content.species.cbd.name%}</strong> - <em>Tursiops truncatus</em></summary>
   {% t content.species.cbd.desc1 %}
   {% t content.species.cbd.desc2 %}
   {% t content.species.cbd.desc3 %}
