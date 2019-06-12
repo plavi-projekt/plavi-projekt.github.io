@@ -1,0 +1,106 @@
+page:
+  title: Blaues Projekt
+titles: 
+  home: Blaues Projekt
+  friends: Unsere Freunde
+desc: 
+  home: 
+  friends: Arten, die Sie sehen können 
+content:
+  home:
+    h1: Delfine und Meeresschildkröten verlassen die Adria. Sie können ihnen helfen, leicht zurück zu kommen.
+    h2: Wollen Sie wissen wie? Schauen das Video an!
+    p1: Bei einer Begegnung mit Delfinen ist der Grat zwischen einer verantwortungsbewussten Beobachtung und einer Belästigung der Tiere schmal. Dieser Grat kann sehr schnell überschritten werden, wenn man nicht achtsam genug ist. 
+    p2: Delfine weisen tagsüber verschiedene Aktivitäten vor, die zu ihren typischen Verhaltensbildern gehören. Jede dieser Aktivitäten erfüllt seinen Zweck, trägt zum Gemeinwohl der Delfingruppe bei und garantiert das Überleben in freier Wildbahn.
+    h3: Die Anwesenheit von Menschen in ihrem natürlichen Lebensraum kann man als eine Art Störung betrachten, da sie das Verhalten der Delfine unmittelbar beeinflusst. In der Küstenregion Kroatiens ist die Anzahl der Boote deutlich gestiegen. Es ist aber bekannt, dass eine dauerhafte Belästigung der Tiere schwerwiegende Folgen mit sich bringen kann, wie zum Beispiel Stress bedingte gesundheitliche Probleme, einen Rückgang des Paarungserfolges oder das Meiden von Gebieten, die bedeutsam für ihr Überleben sind.
+    h4: Das Verhalten, dass wir bei einer Interaktion mit Delfinen wählen, hat viele Folgen und verändert deutlich das Wohlergehen zu Gunsten der Tiere.
+  rules: 
+    head: Verhaltensregeln
+    st: "Es ist von unermesslicher Wichtigkeit jederzeit das Verhalten der Delfine zu beobachten und sich an folgende einfache Regeln zu halten:"
+    r1:
+      title: STELLEN SIE SICH HÖFLICH VOR
+      short: (1)Nähern Sie sich den Tieren langsam und von der Seite. Vermieden sie abrupte Geschwindigkeits- und Richtungsänderungen.
+      long1: Wenn Sie sich den Delfinen von hinten nähern, erweckt es bei ihnen den Eindruck, dass Sie sie verscheuchen wollen. Die Tiere werden versuchen sich vom Boot zu distanzieren oder abzuhauen. Wenn Sie sich von vorne nähern, unterbrechen Sie die Schwimmrichtung der Delfine und stellen ein Hindernis dar. Auf diese Weise zwingen Sie die Delfine sich zu trennen, ihre Schwimmrichtung zu ändern oder tiefer zu tauchen, um dem Hindernis zu entweichen. Ihr Ziel sollte sein, diese Tiere zu beobachten, ohne ihre Bewegungsfreiheit einzuschränken.
+      long2: Geräusche breiten sich im Wasser sehr schnell aus und lassen sich auch aus großer Entfernung ermitteln. Sie sollten sich bewusst sein, dass Delfine Sie schon hören können, bevor Sie sie sehen können. Deswegen kann man den Motor eines Bootes als ein Kommunikationsmittel mit den Meeressäugern betrachten.  
+      long3: Beschleunigen oder drosseln Sie nicht plötzlich das Tempo, wenn Sie in ihrer Nähe sind.  Jede Art von Bewegung oder ein Anhalten, aber auch eine plötzliche Geschwindigkeits- und/oder Richtungsänderung warnt die Delfine Ihre Absichten erneut zu überdenken  bzw. einzuschätzen.
+      long4: Am Anfang sollten Sie den Delfinen nicht näher als 100 Meter kommen. Verringern Sie die Entfernung langsam, mit einer Geschwindigkeit von nicht mehr als 5 Knoten, fast unbemerkbar und mit einem geringen Anfahrtswinkel.  Auf diese Weise bieten Sie den Delfinen genügend Zeit, sich an Ihre Anwesenheit zu gewöhnen. Gleichzeitig haben Sie die Gelegenheit zu prüfen, ob sich in der Gruppe Kälber befinden. Wenn das der Fall ist, wäre es am besten den Ort zu verlassen.
+    r2:
+      title: FAHREN SIE PARALLEL ZUR DELFINGRUPP
+      short: Schalten Sie den Motor ab solange die Delfine unter Wasser sind. Versuchen Sie nicht die Tiere einzuholen, wenn sie auftauchen.
+      long1: Am besten halten Sie das Boot parallel und mit einem kleinen Abstand zu den Delfinen. So ermöglichen Sie den Tieren freiwillig und ohne Hindernisse die Bewegungsrichtung zu ändern. Beobachten sie genau die Tiere, damit Sie rechtzeitig auf Veränderungen reagieren können. Fahren Sie nicht auf Delfine zu oder stellen Sie sich nicht ihrer Bewegungsrichtung quer.
+      long2: Während Sie darauf warten, dass die Delfine auftauchen, können Sie den Motor auf Leerlauf stellen oder die Fahrt ohne Tempo- oder Richtungsänderungen fortsetzten. Wenn sie erneut auftauchen, versuchen Sie nicht die Delfine schnell einzuholen.
+      fin: Nähert sich ein Delfin dem Boot, ändern Sie nichts, bis er sich wieder entfernt.
+    r3:
+      title: AUCH DELFINE BRAUCHEN IHRE PRIVATSPHÄRE
+      short: Delfine werden sich Ihnen kenntlich machen, wenn Sie nicht willkommen sind.
+      long1: "Auch wenn Sie keine Erfahrungen im Umgang mit einer bestimmten Delfinart haben, können Sie trotzdem einschätzen, ob die Tiere durch ihre Anwesenheit beunruhigt werden. Deswegen halten Sie sich an folgende Regeln:"
+      long2: Treffen Sie auf Delfinkühe, die mit ihren Kälbern unterwegs sind, ist es am besten sich von ihnen zu entfernen, da die Kälber sehr stressempfindlich sind. Die Weibchen würden sich in dem Fall zwischen Sie und den Kälbern stellen, um sie zu beschützen. Manchmal stellt sich auch die ganze Gruppe, die sogenannte „Schule“, zur Verteidigung vor das Boot. Das ist ein eindeutiges Zeichen wegzufahren.
+      long3: Wenn die Schule wiederholt oder abrupt die Richtung oder das Tempo ändert, sei sie unter Wasser oder an der Meeresoberfläche, dann sollten Sie wegfahren.
+      long4: Wenn sich Delfine sehr lange unter Wasser aufhalten sollten und die Entfernung zwischen des Abtauchens und erneuten Auftauchens an die Oberfläche groß sein sollte, dann sollten Sie sich ebenfalls entfernen.
+      long5: Versuchen Delfine mehrfach direkt auf das Boot zuzuschwimmen oder wegzuschwimmen, sollten Sie auch in diesem Fall wegfahren.
+      long6: Es bestehen auch ein paar sehr offensichtliche Zeichen des Unmuts. Wenn Delfine unzufrieden sein sollten, dann werden sie versuchen Sie zu erschrecken oder Sie darauf hinzuweisen, sich zu entfernen, indem sie laut atmen oder mit der Schwanzflosse gegen die Meeresoberfläche schlagen. Des Weiteren springen sie mehrfach hintereinander in die Luft.
+    r4:
+      title: LASSEN SIE DEN DELFINEN GENÜGEND FREIRAUM
+      short: Nähern sie sich den Tieren max. bis zu 50m. Lassen Sie die Delfine entscheiden, ob sie sich Ihnen nähern möchten oder nicht. Erhöhen Sie den Mindestabstand, wenn mehrere Boote zugegen sind.
+      long1: Delfine lassen sich schnell aus der Ruhe bringen, wenn Sie ihnen zu nah kommen. Es gibt keine festgeschriebene Grenze, die nicht überschritten werden darf. Sie sollten nie den Mindestabstand von 50 m überschreiten, solange sich die Tiere nicht freiwillig Ihnen nähern.
+      long2: Wenn andere Beobachter anwesend sein sollten, warten Sie bis sich diese entfernt haben. Erst dann sollten Sie versuchen sich den Delfinen anzunähern. In einem Umkreis von 200 m sollten nicht mehr als 3 Boote unterwegs sein.
+      long3: Sie sollten die Tiere nicht mit mehreren Booten gleichzeitig umkreisen und darauf achten, dass Sie die Delfine auf der gleichen Seite wie die restlichen Beobachter sichten. Wenn Sie die Tiere einkesseln, werden sie sich gefangen fühlen und versuchen abzuhauen.
+    r5:
+      title: BITTE NICHT FÜTTERN
+      short: Viele Menschen vergessen - dass Delfine Raubtiere sind, die sich auf ihre ausgefeilten Jagdfähigkeiten verlassen, um in den Weltmeeren zu überleben - und füttern sie trotzdem. Die Mehrheit denkt, dass sie damit dem „Aushungern“ der Tiere entgegenwirkt. Manche Menschen versuchen auch auf diese Weise die Tiere zu locken, in der Hoffnung, dass sich diese länger am Boot aufhalten. Wahrscheinlich sind das nicht die einzigen Gründe, weshalb Menschen Delfine füttern, aber die Folgen sind immer negativ.
+      long1: "Hier sind die Gründe:"
+      long2: Delfine können sich an das Füttern gewöhnen und werden mit der Zeit vom Menschen abhängig, um an ihre nächste Mahlzeit zu gelangen. Dass Menschen bei der Nahrungsfindung mitmischen, ist nur von kurzer Dauer und stellt somit keine verlässliche Nahrungsquelle für die Tiere dar. Wenn man plötzlich mit dem Füttern aufhört, können Delfine in Gefahr geraten, da sie ihre Nahrungssuche nur noch in der Nähe von Booten fortsetzen. 
+      long3: Statt sich brauchbare Jagdfähigkeiten anzueignen, machen sich junge Delfine zur Gewohnheit, ihre Nahrung in der Nähe des Menschen zu suchen, was aber wiederum den Tod bedeuten kann.
+      long4: Delfine können schwere gesundheitliche Probleme bekommen, wenn sie Schokolade, Salzbrezeln, Plastikgegenstände oder ein anderes, für Delfine unnatürliches Nahrungsmittel zu sich nehmen, das ihnen von Menschen angeboten wird, die sich der Folgen nicht bewusst sind.
+      long5: Sie sollten nicht außer Acht lassen, dass sogar Meeresorganismen, wie gewöhnliche Fische oder Tintenfische, schädlich sein können, da sie eine große Anzahl von Bakterien enthalten und eine Quelle für Infektionen mit möglichen Todesfolgen darstellen können.
+      long7: Delfine, die sich schon regelmäßig in der Nähe der Menschen aufhalten, verlieren stufenweise ihre Angst vor ihnen und begeben sich immer öfter in die Nähe von Booten. Da sie dann weniger achtsam als sonst sind, ist die Wahrscheinlichkeit höher, dass sie verunglücken. Sie verschlucken sich an Teilen der Fischfangausrüstung oder sie verhaken sich an ihnen, aber noch größer ist die Gefahr vor Zusammenstößen mit Booten oder Verletzungen durch den Kontakt mit Propellern.
+      long8: "Denken Sie an Ihre Sicherheit, aber auch an die Sicherheit derer, die sich in Zukunft in die Nähe dieser Tiere begeben. Delfine, die sich an das Füttern gewöhnt haben, können aggressiv werden, wenn sie nicht das bekommen, was sie wollen. Die Tiere können noch unruhiger werden, wenn Sie sie provozieren oder anfassen möchten. Merken Sie sich eins: das sind wilde Tiere, deren Verhalten unberechenbar ist."
+      fin:  Das Füttern von Delfinen macht die Tiere nervös und unruhig!
+    r6:
+      title: NICHT MIT DELFINEN SCHWIMMEN
+      short: "Delfine nehmen den Menschen meistens wie ein wildes Tier wahr, dass auf der Jagd nach Aufmerksamkeit und freundschaftlicher Interaktion ist. Einzelne Delfine, die nicht mehr in ihrer herkömmlichen Umgebung zu sehen sind, erwecken auf den ersten Blick den Eindruck, dass sie z.B. eine starke Bindung zu ihren Trainern aufbauen können, während sie irgendwelche lustige und eindrucksvolle Kunststücke aufführen. Manche Delfine werden sogar in therapeutische Zwecke einbezogen, um den Patienten bei ihrer Genesung zu helfen. All das würde ja bedeuten, dass wir unbedingt die Gelegenheit nutzen sollten mit diesen großartigen Tieren zu schwimmen, oder nicht? Nein, nicht ganz....hier die Gründe:"
+      long1: Wenn es Ihnen gelingen sollte, sich ausreichend den Delfinen zu nähern, dann sollten sie daran denken, dass Sie sich in eine Situation begeben, die nicht nur für Sie unsicher ist, sondern auch für die Tiere. Delfine sind wilde, unberechenbare Tiere, denen Sie sie mit Respekt begegnen sollten. Es sind Fälle bekannt, bei denen Schwimmer nach ihrer Begegnung mit den Tieren gezwungen waren einen Arzt aufzusuchen, weil sie während der Interaktion von ihnen einen Schlag abbekommen haben oder gebissen wurden.
+      long2: Delfine sind, wie auch die Menschen, Säugetiere. Auch wenn das Meerwasser eine desinfizierende Wirkung hat, ist die Übertragung von Krankheiten bei einer Begegnung nicht ausgeschlossen. Das Schwimmen mit den Delfinen kann eine ernsthafte, gesundheitliche Gefahr für den Menschen, aber auch für die Tiere darstellen.
+      fin: Das Schwimmen ist eine Belästigung für die Tiere!
+    r7:
+      title: HALTEN SIE SICH NICHT ZU LANGE AUF
+      short: Die Begegnung sollte nur max. 30 Minuten dauern. Wenn sie wegfahren, beschleunigen sie stufenweise das Tempo.
+      long1: Unabhängig davon, wie sie sich den Delfinen nähern, reicht allein schon Ihre Anwesenheit, um die Tiere zu beunruhigen. Indem Sie die Verhaltensregeln beachten, verringern Sie die Wahrscheinlichkeit, Einfluss auf ihr Verhalten zu nehmen. Das bedeutet aber nicht, dass Sie sich als Teil der Gruppe sehen dürfen. Auch wenn das für Sie eine sehr erfüllende Erfahrung sein sollte, vergessen Sie nicht, dass Delfine wilde Tiere sind, die zu ihren gewohnten Aktivitäten zurückkehren müssen, um überleben zu können. Genießen Sie die Zeit mit ihnen, machen sie Fotos und teilen Sie ihre Erlebnisse mit anderen, aber verweilen sie nicht länger als 30 Minuten. Achten Sie darauf, dass sie ausreichend Abstand von den Tieren haben, wenn Sie wegfahren wollen. Beschleunigen Sie langsam, insbesondere wenn Sie nicht sicher sind, wo sich die Delfine unter Wasser befinden.
+    r8:
+      title: HALTEN SIE IHR ERLEBNIS FEST
+      short: (8)Wenn Sie Delfine sehen, bitten wir Sie sich die App „CROdolphinlittle“ auf Ihr Smartphone runterzuladen und Ihr Erlebnis festzuhalten.
+      url: https://play.google.com/store/apps/details?id=com.tools.CroDolphin&hl=de
+  penal:
+    title: Das Fangen oder Belästigen von Delfinen ist nach kroatischem Recht verboten! 
+    desc: Sich um Delfine drehen, das Boot direkt auf die Gruppe manövrieren, versuchen, die Delfine zu berühren und zu ärgern, ist eine Belästigung - Sie wollen keine Strafe bekommen!
+    harass: Wenn Sie Zeuge vorsätzlicher Belästigung von Delfinen werden, rufen Sie 192 an. 
+    injury: Wenn Sie einen verwundeten, kranken oder toten Delphin finden, rufen Sie die 112 an oder senden Sie eine E-Mail an vrste@haop.hr
+  species:
+    cbd:
+      name: Der Große Tümmler (Tursiops truncatus)
+      desc1: Das ist wahrscheinlich die bekannteste und meist verbreitete aller Delfinarten (Delphinidae). Der Große Tümmler hat einen spindelförmigen bzw. hydrodynamischen Körper. Die Körperfarbe variiert von dunkelgrau auf dem Rücken, über hellgrau an den Seiten bis weiß auf dem Bauch. Im Sommer, wenn die Wassertemperatur des Meeres hoch ist, kann der Bauch des Großen Tümmlers rosa werden. Die Erwachsenen werden zwischen 1,9 und 4 m lang und wiegen zwischen 100 - 500 kg. In der Adria erreichen sie normalerweise eine Körperlänge bis zu 3 m sowie ein Gewicht von etwa 200 kg.
+      desc2: Sie ernähren sich von den am Meeresboden lebenden Fischen und kleinen Tintenfischen. Deswegen stehen sie gleichzeitig in Konkurrenz zu den Fischern. Große Tümmler sind für ihre Neugier bekannt, die der Grund dafür sein kann, dass sie sich an einem Teil einer Fischerausrüstung verhaken, insbesondere an einem Treibnetz. Das ist zugleich die häufigste Ursache für einen zu frühen Tod eines Delfins dieser Art.
+      desc3: Obwohl es momentan keine genaue Auswertung über den weltweiten Bestand der Großen Tümmler gibt, schätzt man ihre Anzahl in der Adria auf etwa 10.000. Auf dieses Ergebnis ist man mittels einer Studie gekommen, die aus der Luft durchgeführt wurde.
+    cbw:
+      name: Der Cuvier Schnabelwal (Ziphius cavirostris)
+      desc1: Der Cuvier Schnabelwal ist der große Zahnwal, dessen ausgewachsene Körperlänge zwischen 5,5 und 7 Meter beträgt. Er gehört zu der am häufigsten verbreiteten Art der Schnabelwale und ist außer in polaren Gewässern überall anzutreffen.
+      desc2: Historische Informationen über die Verbreitung und Anwesenheit dieser Art in der Adria sind selten. Anhand der Daten über gestrandete Tiere wurde festgestellt, dass sich diese Delfinart nur kurzzeitig oder selten in diesen Gewässern aufhält. Gemäß einem relativ aktuellen Bericht über die in der Adria vorhandenen Arten, könnte die südliche Adria ein wichtiger Lebensraum für den Cuvier Schnabelwal sein. Sie wurden in Gewässern mit einer Tiefe zwischen 700 und 1200 m gesichtet, in Gebieten der steilen Bathymetrie.
+      desc3:  Die Tiere wurden vor allem entlang des nördlichen und östlichen Teils des südlichen Adriatischen Beckens gesichtet, wo der Meeresgrund ganz schnell eine Tiefe von bis zu 1000 m erreichen kann. Da dort auch Walkühe mit ihren Kälbern (Säuglinge) gesichtet wurden, kann man auf die Wichtigkeit dieser Region für die Delfine dieser Art schließen.
+    fw:
+      name: Der Finnwal (Balaenoptera physalus)
+      desc1: Der Finnwal (Balaenoptera physalus) ist eine weit verbreitete Walart, die in allen Ozeanen und Meeren der Welt zu finden ist, besonders in gemäßigt-kalten und arktischen Gewässern. Sie besiedeln auch das Mittelmeer und Studien zeigen, dass sich diese Populationen genetisch von ihren Artgenossen unterscheiden. Finnwale tauchen regelmäßig als „Gäste“ auch in der kroatischen Adria auf und ihre letzte Sichtung fand bei den Inseln Vis und Losinj statt.
+      desc2: Finnwale leben vorwiegend allein oder in kleineren Gruppen. Gelegentlich werden Delfingruppen bis zu 100 Tieren in Gebieten mit einem reichhaltigen Nahrungsangebot gesichtet. Sie fressen vorwiegend Krill und kleine Fische, sowie Makrelen, Heringe und Lodden. Finnwale haben einen hydrodynamisch geformten Körper mit den an der Unterseite des Mauls entwickelten Falten, den sog. Kehlfurchen, die während des Fressens sich ausdehnen. Sie ernähren sich, indem sie langsam und mit weit geöffnetem Maul schwimmen. Dabei nehmen sie die Beute mit dem Wasser auf und pressen das Wasser durch die Barte wieder aus.
+      desc3: Der Finnwal ist das zweitgrößte Tier der Erde und nur der Blauwal ist größer als er. Der Rücken des Finnwals ist dunkelgrau, während die Unterseite des Körpers weiß oder beigefarbig ist. Weibliche Tiere können bis zu 27 m lang werden und wiegen fast 100 Tonnen. Sie können mehr als 80 Jahre alt werden. Leider waren sie die meist gejagte Walart im 20. Jahrhundert. Allein auf der Südhalbkugel wurden über 725.000 Tiere getötet. Die Anzahl der Finnwale in den Ozeanen ist aktuell unbekannt. Laut der Roten Liste der Weltnaturschutzunion gelten die Finnwale im Mittelmeer als gefährdet.
+    rd:
+      name: Der Rundkopfdelfin (Grampus griseus)
+      desc1: Der Rundkopfdelfin ist eine relativ große Delfinart, die bis 4 m lang werden kann. Die Rundkopfdelfine sind durch ihren abgestumpften Kopf ohne Rostrum und ihre dunkle Körperfarbe unverkennbar. Im Laufe der Zeit ist die Haut der erwachsenen Delfine immer mehr mit weißen Narben bedeckt, die sich zeitlebens kumulieren und das ist der Grund, warum sehr alte Tiere fast komplett weiß erscheinen.
+      desc2: Die Rundkopfdelfine sind in tropischen und gemäßigten Gewässern weltweit verbreitet. Sie bevorzugen tiefes Wasser und Küsten- und Schelfmeere. Im Mittelmeer kommen sie regelmäßig vor und sind dort alltägliche Bewohner, obwohl ihr Bestand dort unbekannt ist. Besonders häufig ist diese Delfinart im südlichen Teil der Adria vorzufinden, v.a. in Küstennähe, wo es steile Hänge gibt und in Meeresbereichen von 600-900 m Tiefe.
+    sbcd:
+      name: Den Gemeinen Delfin (Delphinus delphis)
+      desc1: Den Gemeinen Delfin (Delphinus delphis) findet man im offenen Meer und in Küstengewässern der tropischen und gemäßigten Gebiete des Atlantischen und Pazifischen Ozeans. Diese Delfinart ist auch im Mittelmeer und im Schwarzen Meer zu sehen, so auch in der Adria. Bis zu den frühen Siebziger Jahren galt diese Delfinart als eine der meist vorhandenen Arten im Mittelmeer. Seitdem kam es zu einem massiven Populationseinbruch, der in vielen Gebieten der oben aufgeführten Lebensräume zu einem kompletten Artenschwund dieser Delfinart führte.
+      desc2: Der Hauptgrund des Artenschwundes liegt an den organisierten Ausrottungsaktionen in den Mittelmeerländern. Delfine wurden im Fischfang als Konkurrenten gesehen und sogar als „Schädlinge“ wahrgenommen.
+      desc3:  Obwohl Gemeine Delfine ab und an in der Adria auftauchen, werden sie in dieser Region für ausgestorben gehalten, da keine lokal ansässige Delfinbevölkerung existiert, die sich dort fortpflanzt. Je nach Lebensraum, sieht ihre Beute anders aus. Sie fressen kleinere Schwarmfische, wie z.B. Heringe, Europäische Sardellen, Sardinen und dazu auch Kopffüßer. Gemeine Delfine leben in Schulen, die ein paar Tausend Tiere umfassen können, insbesondere wenn es dort opulente Nahrung gibt. Diese großen sozialen Verbände bestehen aus mehreren kleineren Schulen, die 20 bis 30 eng verbundene Tiere umfassen. Die durchschnittliche Lebensdauer dieser Delfinart beträgt 30 Jahre.
+    sd:
+      name: Der Streifendelfin (Blau-Weißer Delfin)
+      desc1: Der Streifendelfin (Stenella coeruleoalba) ist ein kleiner Hochseedelfin, der weltweit in gemäßigt warmen und tropischen Gewässer aufzufinden ist. Er ist die häufigste Delfinart im Mittelmeer. Im offenen Meer des südlichen Teils der Adria lebt eine Population von etwa 20.000 Delfinen. Sie sind zeitweise in der Region des Mittleren Adriaraums, aber auch in der Nordadria um die Inseln Losinj und Krk zu sehen.
+      desc2: Die Streifendelfine versammeln sich in einer großen Schule, deren Größe sich ständig ändert und aus 10 bis mehreren Hundert Individuen bestehen kann. Die Lebensdauer von Streifendelfinen wurde auf ca. 58 Jahre geschätzt. Da sie zu einer Hochseeart zählen, ernähren sie sich vorwiegend von kleineren Schwarm- und Tintenfischen. Wenn sie jagen, können sie bis zu 700 m tief tauchen. Streifendelfine sind sehr schnelle Schwimmer und bewegen sich im Mittelmeer mit einer durchschnittlichen Geschwindigkeit von 15 km/h. Sie sind sehr aktiv, springen oft etliche Meter hoch und zeigen unterschiedliche Kunststücke an der Meeresoberfläche.
