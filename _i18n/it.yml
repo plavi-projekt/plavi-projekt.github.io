@@ -1,9 +1,11 @@
+page:
+  title: Progetto Blu
 titles: 
-  home: 
-  friends: 
+  home: Progetto Blu 
+  friends: I nostri amici
 desc: 
   home: Language test
-  friends: 
+  friends: I nostri amici 
 content:
   home:
     h1: 

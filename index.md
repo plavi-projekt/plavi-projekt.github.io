@@ -1,6 +1,6 @@
 ---
-title: titles.home 
-description: desc.home
+title: titles.home
+desc: desc.home
 layout: default
 ---
 
