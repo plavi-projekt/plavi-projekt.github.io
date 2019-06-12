@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle install && jekyll build
+bundle install && bundle exec jekyll build
