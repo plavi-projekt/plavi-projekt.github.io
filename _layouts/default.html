@@ -36,7 +36,7 @@
       <a class="lang" href="{{ site.baseurl_root }}{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/croatia.svg" alt="HR" height="4%" width="4%"></a>
       <a class="lang" href="{{ site.baseurl_root }}/it{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/italy.svg" alt="IT" height="4%" width="4%"></a>
       <a class="lang" href="{{ site.baseurl_root }}/de{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/germany.svg" alt="DE" height="4%" width="4%"></a>
-      <div class="links"><h2><a class="menu" href="{{ site.baseurl }}">{% t titles.home %}</a> | <a class="menu" href="{{ site.baseurl }}/friends">{% t titles.friends %}</a> | <a class="menu" href="{{ site.baseurl }}/about">{% t titles.about %}</a></h2></div> 
+      <div class="links"><h2>{% if site.lang == "hr" %} <a class="menu" href="https://plavi-projekt.github.io">{% t titles.home %}</a>{% else %} <a class="menu" href="{{ site.baseurl }}">{% t titles.home %}</a>{% endif %} | <a class="menu" href="{{ site.baseurl }}/friends">{% t titles.friends %}</a> | <a class="menu" href="{{ site.baseurl }}/about">{% t titles.about %}</a></h2></div> 
     </header>
 
     <main id="content" class="main-content" role="main">
