@@ -105,3 +105,23 @@ content:
       name: Dauphin bleu et blanc
       desc1: Le dauphin bleu et blanc est un petit dauphin pélagique réparti dans les eaux tropicales et tempérées chaudes du globe. C'est l'une des espèces de dauphins les plus nombreuses dans la Méditerranée. Dans l'Adriatique, on estime qu'ils seraient plus de 20000 dans les eaux pélagiques du sud. De temps en temps, ils ont été observés plus au Nord de l'adriatique, notamment autour des îles de Lošinj et Krk. 
       desc2: "Ces dauphins se rassemblent dans des grandes bandes de taille variable: entre 10 à 30 jusqu'à plusieurs centaines d'indivus. L'espérance de vie maximale de ses animaux est estimée à environ 58 ans. Ils se nourrissent principalement de petits poissons de bancs et de calmars pélagiques, avec une préférence marquée pour ces derniers dans la mer Méditerranée. Les dauphins bleus et blancs peuvent plonger jusqu'à 700m pour chasser. Ils nagent très vite, avec une vitesse de croisière estimée à 15km/h dans la Méditerranée."
+  about:
+    copyright: Copyright (C) 2019 Pierre-Louis Palant 
+    license: Ce site est un logiciel libre distribué sous licence GNU GPL v3. Visitez 
+    license2: pour en savoir plus.   
+    icons1: Les icônes fabriquées par 
+    icons2: sur
+    icons3: sont sous licence 
+    desc1: L'objectif principal et l'objectif final du projet est de sensibiliser l'opinion publique à l'importance de la protection des dauphins et des tortues marines ; il est approuvé et cofinancé par le Fonds social européen (FSE).
+    desc2: L'association Agronauta est le coordinateur du projet avec la Faculté de Médecine Vétérinaire et le Centre d'Enseignement Marin de Pula comme partenaires.
+    partners:
+      head: "Le projet est soutenu par :"
+      p1: Office de Tourisme Krapanj-Brodarica
+      p2: Office de Tourisme de Zlarin
+      p3: Office de Tourisme Vodice
+      p4: Office de Tourisme de Skradin
+      p5: Office du tourisme de la municipalité de Murter-Kornati
+      p6: Office du Tourisme Pirovac
+      p7: Office du tourisme de Šibenik
+      p8: Office du tourisme du comté de Šibenik-Knin
+      p9: Office du Tourisme de Rogoznica

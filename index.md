@@ -16,6 +16,7 @@ layout: default
 {% t content.home.p1 %}
 
 {% t content.home.p2 %}
+  <img class="illustration" src="{{site.base-url }}/assets/imgs/boat.jpg" alt="boat">
 
 {% t content.home.h3 %}
 #### {% t content.home.h4 %}

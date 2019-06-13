@@ -6,6 +6,8 @@ layout: default
 
 ## {% t desc.friends %}
 
+<img src="{{site.base-url }}/assets/imgs/two-dolphins.jpg" alt="dolphins" class="illustration">
+
 <details>
   <summary><strong>{% t content.species.cbd.name%}</strong> - <em>Tursiops truncatus</em></summary>
   {% t content.species.cbd.desc1 %}

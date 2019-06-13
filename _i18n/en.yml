@@ -105,3 +105,23 @@ content:
       name: Striped dolphin
       desc1: The striped dolphin is a small, globally distributed, pelagic dolphin found in warm temperate and tropical waters. It is the most abundant dolphin species in the Mediterranean Sea. In the Adriatic, a large population of over 20,000 animals inhabit southern pelagic waters. Occasionally, they can be observed in central and even northern Adriatic with individuals recorded around the islands of Lošinj and Krk.
       desc2: Striped dolphins congregate in dense pods. The size of pods can vary from 10-30 to several hundreds of individuals, and their composition is flexible. The species maximum life span has been estimated as approximately 58 years. Being an oceanic dolphin, striped dolphins mainly feed on small shoaling fish and pelagic squids, with an obvious preference for the latter in the Mediterranean. In order to reach their prey, they may dive some 700 meters. These dolphins are very fast swimmers and, in the Mediterranean, are estimated to travel at an average of 15 km per hour. 
+  about:
+    copyright: Copyright (C) 2019 Pierre-Louis Palant 
+    license: This website is free software distributed under GNU GPL v3 license. Visit
+    license2: to know more. 
+    icons1: Icons made by 
+    icons2: from 
+    icons3: are licensed by  
+    desc1: The main purpose and the final goal of the project is to raise the awareness of the importance of dolphin and marine turtle protection and it is approved by and cofinanced from European Social Fund (ESF).
+    desc2: Agronauta association is the project coordinator with the Faculty of Veterinary Medicine and Marine Educational Center Pula as partners.
+    partners:
+      head: "The project is supported by:"
+      p1: Tourist Board Krapanj-Brodarica
+      p2: Zlarin Tourist Board
+      p3: Tourist Board Vodice
+      p4: Skradin Tourist Board 
+      p5: Tourist Board of Murter-Kornati municipality
+      p6: Tourist Board Pirovac
+      p7: Šibenik Tourist Board
+      p8: Tourist Board of Šibenik-Knin County
+      p9: Rogoznica Tourist Board 

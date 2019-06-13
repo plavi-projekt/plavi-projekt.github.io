@@ -105,3 +105,23 @@ content:
       name: Der Streifendelfin (Blau-Weißer Delfin)
       desc1: Der Streifendelfin (Stenella coeruleoalba) ist ein kleiner Hochseedelfin, der weltweit in gemäßigt warmen und tropischen Gewässer aufzufinden ist. Er ist die häufigste Delfinart im Mittelmeer. Im offenen Meer des südlichen Teils der Adria lebt eine Population von etwa 20.000 Delfinen. Sie sind zeitweise in der Region des Mittleren Adriaraums, aber auch in der Nordadria um die Inseln Losinj und Krk zu sehen.
       desc2: Die Streifendelfine versammeln sich in einer großen Schule, deren Größe sich ständig ändert und aus 10 bis mehreren Hundert Individuen bestehen kann. Die Lebensdauer von Streifendelfinen wurde auf ca. 58 Jahre geschätzt. Da sie zu einer Hochseeart zählen, ernähren sie sich vorwiegend von kleineren Schwarm- und Tintenfischen. Wenn sie jagen, können sie bis zu 700 m tief tauchen. Streifendelfine sind sehr schnelle Schwimmer und bewegen sich im Mittelmeer mit einer durchschnittlichen Geschwindigkeit von 15 km/h. Sie sind sehr aktiv, springen oft etliche Meter hoch und zeigen unterschiedliche Kunststücke an der Meeresoberfläche.
+  about:
+    copyright: Copyright (C) 2019 Pierre-Louis Palant 
+    license: Diese Website ist freie Software, die unter der GNU GPL v3 Lizenz vertrieben wird. Besuchen Sie
+    license2: ", um mehr zu erfahren."
+    icons1: Icons von 
+    icons2: von 
+    icons3: werden von 
+    desc1: Der Hauptzweck und das Endziel des Projekts besteht darin, das Bewusstsein für die Bedeutung des Schutzes von Delfinen und Meeresschildkröten zu schärfen, und es wird vom Europäischen Sozialfonds (ESF) genehmigt und kofinanziert.
+    desc2: Der Verein Agronauta ist Projektkoordinator mit der Fakultät für Veterinärmedizin und dem Meeresbildungszentrum Pula als Partner.
+    partners:
+      head: "Das Projekt wird unterstützt von:"
+      p1: Tourismusverband Krapanj-Brodarica
+      p2: Tourismusverband Zlarin
+      p3: Tourismusverband Vodice
+      p4: Skradin Tourismusverband
+      p5: Tourismusverband der Gemeinde Murter-Kornati
+      p6: Tourismusverband Pirovac
+      p7: Šibenik Tourismusverband
+      p8: Tourismusverband des Komitats Šibenik-Knin
+      p9: Tourismusverband Rogoznica

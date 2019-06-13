@@ -105,3 +105,23 @@ content:
       name: Prugasti dupin
       desc1: Prugasti dupin je mali pučinski dupin rasprostranjen širom svijeta u umjereno toplim i tropskim vodama. Najčešća je vrsta dupina u Sredozemnom moru. Otvorene vode južnog dijela Jadrana nastanjuje populacija od oko 20.000 jedinki. Povremeno ih se može  opaziti  u srednjem, pa čak i sjevernom dijelu Jadrana u području otoka Lošinja i Krka.
       desc2: Prugasti dupini okupljaju se u velike skupine. Veličina skupine stalno se mijenja, može varirati od desetak do nekoliko stotina jedinki. Životni vijek im je procijenjen na oko 58 godina. Budući da su oceanska vrsta, prugasti se dupini uglavnom hrane manjom ribom koja se kreće u plovama i lignjama. U potrazi za hranom mogu roniti i do 700 metara. Prugasti dupini su vrlo brzi plivači, a u Sredozemnom moru  kreću se prosječnom brzinom od 15 km/h. Vrlo su aktivni i često skaču uvis nekoliko metara te pokazuju razne vještine iznad površine mora.
+  about:
+    copyright: Copyright (C) 2019 Pierre-Louis Palant 
+    license: Ova web stranica je besplatni softver distribuiran pod licencom GNU GPL v3. Posjetite
+    license2: da biste saznali više.
+    icons1: Ikone napravljene s  
+    icons2: s 
+    icons3: licencirane su od strane
+    desc1: Glavni cilj Plavog projekta je pobuđivanje svijesti o važnosti zaštite dupina i morkih kornjača te je sufinanciran iz Europskog socijalnog fonda.
+    desc2: Nositelj projekta je Udruga Agronuta, a partneri Veterinarski fakultet i Morski obrazovni centar Pula.
+    partners:
+      head: "Ovaj projekt podržavaju:"
+      p1: Turistička zajednica Krapanj-Brodarica 
+      p2: Turistička zajednica Zlarin 
+      p3: Turistička zajednica grada Vodica
+      p4: Turistička zajednica grada Skradina
+      p5: Turistička zajednica općine Murter-Kornati
+      p6: Turistička zajednica općine Pirovac
+      p7: Turistička zajednica grada Šibenika
+      p8: Turistička zajednica Šibensko-Kninske županije
+      p9: Turistička zajednica Rogoznica
