@@ -828,6 +828,22 @@ a {
   margin-left: auto;
   margin-right: auto; }
 
+div.polaroid {
+  width: 80%;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
+  margin-left: auto;
+  margin-right: auto; }
+
+.illustration {
+  display: block;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 20%;
+  max-height: 20%;
+  height: auto;
+  width: auto; }
+
 .lang:hover {
   box-shadow: 0 0 5px 5px rgba(255, 255, 255, 0.5); }
 
@@ -851,18 +867,18 @@ summary:before {
 details[open] summary:before {
   content: "[-] "; }
 
-a:link {
+.menu:link {
   color: white;
   text-decoration: none; }
 
-a:visited {
+.menu:visited {
   color: white;
   text-decoration: none; }
 
-a:hover {
+.menu:hover {
   color: white;
   text-decoration: underline; }
 
-a:active {
+.menu:active {
   color: hotpink;
   text-decoration: underline; }
