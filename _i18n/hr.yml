@@ -3,9 +3,10 @@ page:
 titles: 
   home: Plavi Projekt
   friends: Naši prijatelji
+  about: O nama
 desc: 
   home: Language test
-  friends: Vrste koje možete vidjeti
+  friends: "Vrste koje možete vidjeti:"
 content:
   home:
     h1: Dupini i morske kornjače  napuštaju Jadransko more. Vi im možete pomoći da se vrate!

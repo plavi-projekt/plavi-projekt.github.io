@@ -1,7 +1,10 @@
 ---
-title: "Our friends"
+title: titles.friends
 layout: default
 ---
+
+
+## {% t desc.friends %}
 
 <details>
   <summary><strong>{% t content.species.cbd.name%}</strong> - <em>Tursiops truncatus</em></summary>

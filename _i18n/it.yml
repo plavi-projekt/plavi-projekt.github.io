@@ -3,9 +3,10 @@ page:
 titles: 
   home: Progetto Blu 
   friends: I nostri amici
+  about: Su di noi
 desc: 
   home: Language test
-  friends: I nostri amici 
+  friends: "Le specie che si vedono:"
 content:
   home:
     h1: Delfini e tartarughe marine stanno lasciando il mare Adriatico. Puoi facilmente aiutarli a tornare! 

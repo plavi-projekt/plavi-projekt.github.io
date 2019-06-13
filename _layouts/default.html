@@ -2,6 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
+    <title>{% t page.title %}</title>
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -23,7 +24,6 @@
    
     <header class="page-header" role="banner">
       <h1 class="project-name">{% t page.title %}</h1>
-      <h2 class="project-tagline">{% t page.description %}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -31,12 +31,13 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-        <a class="lang" href="{{ site.base-url }}/en"><img src="{{ site.base-url }}/assets/lang_icon/united-kingdom.svg" alt="EN" height="4%" width="4%"></a>
-        <a class="lang" href="{{ site.base-url }}/fr"><img src="{{ site.base-url }}/assets/lang_icon/france.svg" alt="FR" height="4%" width="4%"></a>
-        <a class="lang" href="{{ site.base-url }}/"><img src="{{ site.base-url }}/assets/lang_icon/croatia.svg" alt="HR" height="4%" width="4%"></a>
-        <a class="lang" href="{{ site.base-url }}/it"><img src="{{ site.base-url }}/assets/lang_icon/italy.svg" alt="IT" height="4%" width="4%"></a>
-        <a class="lang" href="{{ site.base-url }}/de"><img src="{{ site.base-url }}/assets/lang_icon/germany.svg" alt="DE" height="4%" width="4%"></a>
-     </header>
+      <a class="lang" href="{{ site.baseurl_root }}/en{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/united-kingdom.svg" alt="EN" height="4%" width="4%"></a>
+      <a class="lang" href="{{ site.baseurl_root }}/fr{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/france.svg" alt="FR" height="4%" width="4%"></a>
+      <a class="lang" href="{{ site.baseurl_root }}{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/croatia.svg" alt="HR" height="4%" width="4%"></a>
+      <a class="lang" href="{{ site.baseurl_root }}/it{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/italy.svg" alt="IT" height="4%" width="4%"></a>
+      <a class="lang" href="{{ site.baseurl_root }}/de{{ page.url }}"><img src="{{ site.base-url }}/assets/lang_icon/germany.svg" alt="DE" height="4%" width="4%"></a>
+      <div class="links"><h2><a href="{{ site.baseurl }}">{% t titles.home %}</a> | <a href="{{ site.baseurl }}/friends">{% t titles.friends %}</a> | <a href="{{ site.baseurl }}/about">{% t titles.about %}</a></h2></div> 
+    </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}

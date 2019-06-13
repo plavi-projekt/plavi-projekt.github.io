@@ -3,9 +3,10 @@ page:
 titles: 
   home: Blue Project
   friends: Our friends
+  about: About us
 desc: 
   home: Language test
-  friends: Species you can see
+  friends: "Species you can see:"
 content:
   home:
     h1: "Dolphins and marine turtles are leaving the Adriatic Sea. You can help them come back easily!"

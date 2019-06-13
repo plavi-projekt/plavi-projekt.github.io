@@ -3,9 +3,10 @@ page:
 titles: 
   home: Projet Bleu 
   friends: Nos amis
+  about: À propos de nous
 desc: 
   home: 
-  friends: Les espèces visibles
+  friends: "Les espèces que vous pouvez voir:"
 content:
   home:
     h1: Les dauphins et les tortues de mer quittent la mer Adriatique. Vous pouvez facilement les aider à revenir !

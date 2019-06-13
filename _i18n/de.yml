@@ -3,9 +3,10 @@ page:
 titles: 
   home: Blaues Projekt
   friends: Unsere Freunde
+  about: Über uns
 desc: 
   home: 
-  friends: Arten, die Sie sehen können 
+  friends: "Arten, die Sie sehen können:"
 content:
   home:
     h1: Delfine und Meeresschildkröten verlassen die Adria. Sie können ihnen helfen, leicht zurück zu kommen.
